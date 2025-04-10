@@ -18,5 +18,6 @@
   "ResourceOrderSettings":[
     {"name":"spr_trees","order":1,"path":"sprites/spr_trees/spr_trees.yy",},
     {"name":"TileSet2","order":2,"path":"tilesets/TileSet2/TileSet2.yy",},
+    {"name":"TileSet3","order":15,"path":"tilesets/TileSet3/TileSet3.yy",},
   ],
 }
