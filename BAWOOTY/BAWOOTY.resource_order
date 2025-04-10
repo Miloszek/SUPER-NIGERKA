@@ -15,5 +15,8 @@
     {"name":"Skrypty","order":4,"path":"folders/Skrypty.yy",},
     {"name":"Zestawy kafelków","order":1,"path":"folders/Zestawy kafelków.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_trees","order":1,"path":"sprites/spr_trees/spr_trees.yy",},
+    {"name":"TileSet2","order":2,"path":"tilesets/TileSet2/TileSet2.yy",},
+  ],
 }
