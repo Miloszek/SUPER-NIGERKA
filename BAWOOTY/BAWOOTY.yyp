@@ -1,5 +1,5 @@
 {
-  "$GMProject":"v1",
+  "$GMProject":"",
   "%Name":"BAWOOTY",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -28,7 +28,6 @@
     {"$GMFolder":"","%Name":"Turn Based Battle","folderPath":"folders/Sprites/Turn Based Battle.yy","name":"Turn Based Battle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Zestawy kafelków","folderPath":"folders/Zestawy kafelków.yy","name":"Zestawy kafelków","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
